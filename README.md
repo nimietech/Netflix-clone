@@ -12,7 +12,6 @@ An innovative Netflix clone that replicate the core features of the existing pla
 - Includes CRUD (Create, Read, Update, Delete) operations.
 - Error handling and input validation.
 
----
 ## Technologies Used
 - **Node.js**
 - **Express.js**
@@ -20,7 +19,6 @@ An innovative Netflix clone that replicate the core features of the existing pla
 - Other tools/libraries (e.g., dotenv, bcrypt, etc.)
 - Front End technologies.
 
----
 ## Installation
 
 1. **Clone the repository**:
@@ -29,14 +27,14 @@ An innovative Netflix clone that replicate the core features of the existing pla
    
 2 .Navigate to the project directory:
 
-  cd Netflix-clone
+      cd Netflix-clone
 
 3.Install dependencies:
 
-  npm install
+      npm install
 
 4. Start the server:
 
-  npm start
-
-  Server running on http://localhost:3500
+         npm start
+   
+Server running on http://localhost:3500
